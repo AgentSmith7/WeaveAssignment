@@ -1,0 +1,411 @@
+{
+  "pdf_name": "2023 12 - Statement_33877_023_40469_566473_20231231",
+  "total_pages": 3,
+  "processed_at": "2026-02-27T01:00:11.319912",
+  "pages": [
+    {
+      "document_path": "C:\\Users\\risha\\cursorprojects\\WeaveAssignment\\document-agent\\music_rights\\data\\converted_images\\2023 12 - Statement_33877_023_40469_566473_20231231\\page_003.jpg",
+      "document_type": "royalty_statement",
+      "document_images": [
+        "[[[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n ...\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]]"
+      ],
+      "detected_regions": [
+        {
+          "region_type": "figure",
+          "bbox": [
+            22.0,
+            5.0,
+            3282.0,
+            2267.0
+          ],
+          "confidence": 0.7752194404602051,
+          "content": "Here is the extracted text from the image:\n\n```\nVendor: RYAN RABIN\nContract: Ryan Rabin/Grouplove/LP1\nVendor #: 566473\nContract #: 40469\nRef #: 023\nEARNINGS SUMMARY\nPeriod: 07/01/2023 to 12/31/2023\n\n                       System    Manual    Reserves\nEarnings              Earnings  Earnings  BeginBal     Reserves EndingBal   Net Earnings\nDomestic Earn.-Physical   318.11    0.00      464.77         394.55          388.33\nDomestic Earn.-Digital     7,462.21   0.00      0.00              0.00         7,462.21\nTotal Domestic Earnings      7,780.32   0.00      464.77         394.55        7,850.54\n\nForeign Earn.-Physical        15.53      0.00      38.33           31.55          22.31\nForeign Earn.-Digital       3,174.09   0.00      0.00              0.00          3,174.09\nTotal Foreign Earnings         3,189.62   0.00      38.33           31.55        3,196.40\n\nOther Income - Sync             0.00    5,103.64    0.00              0.00          5,103.64\nTotal Other Earnings            0.00    5,103.64    0.00              0.00          5,103.64\n\nTOTAL EARNINGS              10,969.94  5,103.64   503.10         426.10-        16,150.58\n```",
+          "page_number": 0
+        },
+        {
+          "region_type": "title",
+          "bbox": [
+            1507.0,
+            2301.0,
+            1741.0,
+            2349.0
+          ],
+          "confidence": 0.7691116333007812,
+          "content": "Page 2 of 115",
+          "page_number": 0
+        }
+      ],
+      "extracted_text": "Here is the extracted text from the image:\n\n```\nVendor: RYAN RABIN\nContract: Ryan Rabin/Grouplove/LP1\nVendor #: 566473\nContract #: 40469\nRef #: 023\nEARNINGS SUMMARY\nPeriod: 07/01/2023 to 12/31/2023\n\n                       System    Manual    Reserves\nEarnings              Earnings  Earnings  BeginBal     Reserves EndingBal   Net Earnings\nDomestic Earn.-Physical   318.11    0.00      464.77         394.55          388.33\nDomestic Earn.-Digital     7,462.21   0.00      0.00              0.00         7,462.21\nTotal Domestic Earnings      7,780.32   0.00      464.77         394.55        7,850.54\n\nForeign Earn.-Physical        15.53      0.00      38.33           31.55          22.31\nForeign Earn.-Digital       3,174.09   0.00      0.00              0.00          3,174.09\nTotal Foreign Earnings         3,189.62   0.00      38.33           31.55        3,196.40\n\nOther Income - Sync             0.00    5,103.64    0.00              0.00          5,103.64\nTotal Other Earnings            0.00    5,103.64    0.00              0.00          5,103.64\n\nTOTAL EARNINGS              10,969.94  5,103.64   503.10         426.10-        16,150.58\n``` Page 2 of 115",
+      "structured_content": {
+        "statement_info": {
+          "artist_name": "Grouplove",
+          "vendor_name": "RYAN RABIN",
+          "statement_period": "07/01/2023 to 12/31/2023",
+          "page_info": "Page 2 of 115"
+        },
+        "line_items": [
+          {
+            "item_code": null,
+            "item_description": "Domestic Earn.-Physical",
+            "channel": "Physical",
+            "units": 1,
+            "unit_price": 318.11,
+            "gross_amount": 318.11,
+            "royalty_rate": null,
+            "royalty_amount": 388.33
+          },
+          {
+            "item_code": null,
+            "item_description": "Domestic Earn.-Digital",
+            "channel": "Digital",
+            "units": 1,
+            "unit_price": 7462.21,
+            "gross_amount": 7462.21,
+            "royalty_rate": null,
+            "royalty_amount": 7462.21
+          },
+          {
+            "item_code": null,
+            "item_description": "Total Domestic Earnings",
+            "channel": null,
+            "units": null,
+            "unit_price": null,
+            "gross_amount": 7780.32,
+            "royalty_rate": null,
+            "royalty_amount": 7850.54
+          },
+          {
+            "item_code": null,
+            "item_description": "Foreign Earn.-Physical",
+            "channel": "Physical",
+            "units": 1,
+            "unit_price": 15.53,
+            "gross_amount": 15.53,
+            "royalty_rate": null,
+            "royalty_amount": 22.31
+          },
+          {
+            "item_code": null,
+            "item_description": "Foreign Earn.-Digital",
+            "channel": "Digital",
+            "units": 1,
+            "unit_price": 3174.09,
+            "gross_amount": 3174.09,
+            "royalty_rate": null,
+            "royalty_amount": 3174.09
+          },
+          {
+            "item_code": null,
+            "item_description": "Total Foreign Earnings",
+            "channel": null,
+            "units": null,
+            "unit_price": null,
+            "gross_amount": 3189.62,
+            "royalty_rate": null,
+            "royalty_amount": 3196.4
+          },
+          {
+            "item_code": null,
+            "item_description": "Other Income - Sync",
+            "channel": "Sync",
+            "units": 1,
+            "unit_price": 0.0,
+            "gross_amount": 5103.64,
+            "royalty_rate": null,
+            "royalty_amount": 5103.64
+          },
+          {
+            "item_code": null,
+            "item_description": "Total Other Earnings",
+            "channel": null,
+            "units": null,
+            "unit_price": null,
+            "gross_amount": 0.0,
+            "royalty_rate": null,
+            "royalty_amount": 5103.64
+          },
+          {
+            "item_code": null,
+            "item_description": "TOTAL EARNINGS",
+            "channel": null,
+            "units": null,
+            "unit_price": null,
+            "gross_amount": 10969.94,
+            "royalty_rate": null,
+            "royalty_amount": 16150.58
+          }
+        ],
+        "period_totals": {
+          "royalty_for_period": 16150.58,
+          "reserves_released": 503.1,
+          "ending_balance": 426.1
+        }
+      },
+      "quality_assessment": {
+        "raw_assessment": "```json\n{\n    \"overall_quality\": 0.85,\n    \"clarity_score\": 0.90,\n    \"completeness_score\": 0.80,\n    \"table_extraction_quality\": 0.85,\n    \"issues\": [\n        \"There are missing royalty rates for all line items, which reduces the clarity of the royalty calculations.\",\n        \"Inconsistencies between gross amounts and royalty amounts for some line items indicate possible calculation errors.\",\n        \"The 'units' field is null for total earnings categories, which can affect clarity.\"\n    ],\n    \"recommendations\": [\n        \"Include the royalty rates for each line item to enhance transparency.\",\n        \"Verify and ensure that gross amounts are leading to correct royalty calculations.\",\n        \"Provide unit counts or descriptions for total earnings to improve understanding of the source of totals.\"\n    ]\n}\n```",
+        "overall_quality": 0.85
+      },
+      "processing_metadata": {
+        "layout_detection_time": 1.968435287475586,
+        "num_regions_detected": 2,
+        "num_pages": 1,
+        "regions_per_page": 2.0,
+        "ocr_processing_time": 12.209423065185547,
+        "total_text_length": 1163,
+        "successful_extractions": 2,
+        "extraction_success_rate": 1.0,
+        "avg_text_per_region": 581.5,
+        "content_analysis_time": 16.789103031158447,
+        "llm_model": "unknown",
+        "content_structure": [
+          "statement_info",
+          "line_items",
+          "period_totals"
+        ],
+        "quality_assessment_time": 3.65226149559021,
+        "overall_quality": 0.85,
+        "quality_issues": 0,
+        "quality_recommendations": 0,
+        "hallucination_detected": false
+      },
+      "has_hallucination": false,
+      "tries": 0,
+      "error_message": null,
+      "processing_time": 0.0,
+      "total_processing_time": 34.86258625984192,
+      "page_number": 3,
+      "image_path": "C:\\Users\\risha\\cursorprojects\\WeaveAssignment\\document-agent\\music_rights\\data\\converted_images\\2023 12 - Statement_33877_023_40469_566473_20231231\\page_003.jpg"
+    },
+    {
+      "document_path": "C:\\Users\\risha\\cursorprojects\\WeaveAssignment\\document-agent\\music_rights\\data\\converted_images\\2023 12 - Statement_33877_023_40469_566473_20231231\\page_004.jpg",
+      "document_type": "royalty_statement",
+      "document_images": [
+        "[[[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n ...\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]]"
+      ],
+      "detected_regions": [
+        {
+          "region_type": "title",
+          "bbox": [
+            1507.0,
+            2301.0,
+            1741.0,
+            2349.0
+          ],
+          "confidence": 0.7948166728019714,
+          "content": "Page 3 of 115",
+          "page_number": 0
+        },
+        {
+          "region_type": "figure",
+          "bbox": [
+            23.0,
+            0.0,
+            3278.0,
+            2267.0
+          ],
+          "confidence": 0.7076376676559448,
+          "content": "Here\u2019s the extracted text from the image:\n\n```\nVendor:           RYAN RABIN\nContract:         Ryan Rabin/Grouplove/LP1\nVendor #:        566473\nContract #:      40469\nRef #:           023\n\nPAYMENT(S) SUMMARY\nPeriod:          07/01/2023 to 12/31/2023\n\nParticipant Share   Vendor Number   Vendor Name\nAUTOMATIC PAYMENTS  100.00%         566473         RYAN RABIN\nTOTAL AUTOMATIC PAYMENTS:\n\nPymt Method/ Pymt Block   Ref. Number\n                          12/31/2023      \nAmount Paid:              16,150.58\n```",
+          "page_number": 0
+        }
+      ],
+      "extracted_text": "Page 3 of 115 Here\u2019s the extracted text from the image:\n\n```\nVendor:           RYAN RABIN\nContract:         Ryan Rabin/Grouplove/LP1\nVendor #:        566473\nContract #:      40469\nRef #:           023\n\nPAYMENT(S) SUMMARY\nPeriod:          07/01/2023 to 12/31/2023\n\nParticipant Share   Vendor Number   Vendor Name\nAUTOMATIC PAYMENTS  100.00%         566473         RYAN RABIN\nTOTAL AUTOMATIC PAYMENTS:\n\nPymt Method/ Pymt Block   Ref. Number\n                          12/31/2023      \nAmount Paid:              16,150.58\n```",
+      "structured_content": {
+        "statement_info": {
+          "artist_name": null,
+          "vendor_name": "RYAN RABIN",
+          "statement_period": "07/01/2023 to 12/31/2023",
+          "page_info": "Page 3 of 115"
+        },
+        "line_items": [
+          {
+            "item_code": null,
+            "item_description": "AUTOMATIC PAYMENTS",
+            "channel": null,
+            "units": 1,
+            "unit_price": null,
+            "gross_amount": 16150.58,
+            "royalty_rate": null,
+            "royalty_amount": 16150.58
+          }
+        ],
+        "period_totals": {
+          "royalty_for_period": null,
+          "reserves_released": null,
+          "ending_balance": null
+        }
+      },
+      "quality_assessment": {
+        "raw_assessment": "```json\n{\n    \"overall_quality\": 0.85,\n    \"clarity_score\": 0.90,\n    \"completeness_score\": 0.80,\n    \"table_extraction_quality\": 0.85,\n    \"issues\": [\n        \"Artist name is missing.\",\n        \"There are null values for item code, unit price, and royalty rate which could hinder detailed analysis.\",\n        \"Period totals are not populated, reducing the completeness of the statement.\"\n    ],\n    \"recommendations\": [\n        \"Ensure that all fields, especially artist name and relevant financial metrics, are populated before finalizing the statement.\",\n        \"Implement checks to validate the extraction process for completeness and accuracy.\",\n        \"Consider enhancing data extraction techniques to capture detailed breakdowns in the royalties.\"\n    ]\n}\n```",
+        "overall_quality": 0.85
+      },
+      "processing_metadata": {
+        "layout_detection_time": 2.0520846843719482,
+        "num_regions_detected": 2,
+        "num_pages": 1,
+        "regions_per_page": 2.0,
+        "ocr_processing_time": 5.615813493728638,
+        "total_text_length": 520,
+        "successful_extractions": 2,
+        "extraction_success_rate": 1.0,
+        "avg_text_per_region": 260.0,
+        "content_analysis_time": 4.208472967147827,
+        "llm_model": "unknown",
+        "content_structure": [
+          "statement_info",
+          "line_items",
+          "period_totals"
+        ],
+        "quality_assessment_time": 3.3195931911468506,
+        "overall_quality": 0.85,
+        "quality_issues": 0,
+        "quality_recommendations": 0,
+        "hallucination_detected": false
+      },
+      "has_hallucination": false,
+      "tries": 0,
+      "error_message": null,
+      "processing_time": 0.0,
+      "total_processing_time": 15.370983600616455,
+      "page_number": 4,
+      "image_path": "C:\\Users\\risha\\cursorprojects\\WeaveAssignment\\document-agent\\music_rights\\data\\converted_images\\2023 12 - Statement_33877_023_40469_566473_20231231\\page_004.jpg"
+    },
+    {
+      "document_path": "C:\\Users\\risha\\cursorprojects\\WeaveAssignment\\document-agent\\music_rights\\data\\converted_images\\2023 12 - Statement_33877_023_40469_566473_20231231\\page_005.jpg",
+      "document_type": "royalty_statement",
+      "document_images": [
+        "[[[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n ...\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]]"
+      ],
+      "detected_regions": [
+        {
+          "region_type": "title",
+          "bbox": [
+            1507.0,
+            2302.0,
+            1741.0,
+            2349.0
+          ],
+          "confidence": 0.8290004730224609,
+          "content": "Page 4 of 115",
+          "page_number": 0
+        },
+        {
+          "region_type": "table",
+          "bbox": [
+            18.0,
+            1.0,
+            3281.0,
+            2271.0
+          ],
+          "confidence": 0.7313171029090881,
+          "content": "Here's the extracted table data in a structured format:\n\n```\n| PERIOD RELEASE | H2 2022 | H1 2023 | H2 2023 | H1 2024 | TOTAL  |\n|----------------|---------|---------|---------|---------|--------|\n| H1 2024        | 141.62  | 19.58   | 21.09   | 0.00    | 182.29 |\n| H2 2024        | 141.56  | 19.55   | 21.01   | 0.00    | 182.12 |\n| H1 2025        | 0.00    | 19.62   | 21.05   | 0.00    | 40.67  |\n| H2 2025        | 0.00    | 0.00    | 21.02   | 0.00    | 21.02  |\n| RESERVES       | 283.18  | 58.75   | 84.17   | 0.00    | 426.10 |\n```",
+          "page_number": 0
+        }
+      ],
+      "extracted_text": "Page 4 of 115 Here's the extracted table data in a structured format:\n\n```\n| PERIOD RELEASE | H2 2022 | H1 2023 | H2 2023 | H1 2024 | TOTAL  |\n|----------------|---------|---------|---------|---------|--------|\n| H1 2024        | 141.62  | 19.58   | 21.09   | 0.00    | 182.29 |\n| H2 2024        | 141.56  | 19.55   | 21.01   | 0.00    | 182.12 |\n| H1 2025        | 0.00    | 19.62   | 21.05   | 0.00    | 40.67  |\n| H2 2025        | 0.00    | 0.00    | 21.02   | 0.00    | 21.02  |\n| RESERVES       | 283.18  | 58.75   | 84.17   | 0.00    | 426.10 |\n```",
+      "structured_content": {
+        "statement_info": {
+          "artist_name": null,
+          "vendor_name": null,
+          "statement_period": null,
+          "page_info": "Page 4 of 115"
+        },
+        "line_items": [
+          {
+            "item_code": null,
+            "item_description": "H1 2024",
+            "channel": null,
+            "units": 1,
+            "unit_price": 141.62,
+            "gross_amount": 182.29,
+            "royalty_rate": null,
+            "royalty_amount": 182.29
+          },
+          {
+            "item_code": null,
+            "item_description": "H2 2024",
+            "channel": null,
+            "units": 1,
+            "unit_price": 141.56,
+            "gross_amount": 182.12,
+            "royalty_rate": null,
+            "royalty_amount": 182.12
+          },
+          {
+            "item_code": null,
+            "item_description": "H1 2025",
+            "channel": null,
+            "units": 1,
+            "unit_price": 0.0,
+            "gross_amount": 40.67,
+            "royalty_rate": null,
+            "royalty_amount": 40.67
+          },
+          {
+            "item_code": null,
+            "item_description": "H2 2025",
+            "channel": null,
+            "units": 1,
+            "unit_price": 0.0,
+            "gross_amount": 21.02,
+            "royalty_rate": null,
+            "royalty_amount": 21.02
+          },
+          {
+            "item_code": null,
+            "item_description": "RESERVES",
+            "channel": null,
+            "units": 1,
+            "unit_price": 283.18,
+            "gross_amount": 426.1,
+            "royalty_rate": null,
+            "royalty_amount": 426.1
+          }
+        ],
+        "period_totals": {
+          "royalty_for_period": null,
+          "reserves_released": 426.1,
+          "ending_balance": null
+        }
+      },
+      "quality_assessment": {
+        "raw_assessment": "```json\n{\n    \"overall_quality\": 0.85,\n    \"clarity_score\": 0.90,\n    \"completeness_score\": 0.80,\n    \"table_extraction_quality\": 0.85,\n    \"issues\": [\n        \"Missing key information such as artist_name, vendor_name, statement_period, and royalty_rate.\",\n        \"Some line items have unit_price listed as 0, which may indicate an error or lack of sales data.\",\n        \"The summary totals for royalty_for_period and ending_balance are not provided.\"\n    ],\n    \"recommendations\": [\n        \"Ensure that all essential fields are populated to improve completeness.\",\n        \"Verify the accuracy of unit_price for items where it is currently set to 0; investigate if data is missing or miscategorized.\",\n        \"Include total royalty amounts and ending balances to provide a comprehensive overview of the statement.\",\n        \"Consider improving the confidence scores of extracted data to enhance reliability; re-evaluate extraction processes.\"\n    ]\n}\n```",
+        "overall_quality": 0.85
+      },
+      "processing_metadata": {
+        "layout_detection_time": 1.3675031661987305,
+        "num_regions_detected": 2,
+        "num_pages": 1,
+        "regions_per_page": 2.0,
+        "ocr_processing_time": 8.485839605331421,
+        "total_text_length": 553,
+        "successful_extractions": 2,
+        "extraction_success_rate": 1.0,
+        "avg_text_per_region": 276.5,
+        "content_analysis_time": 9.488136529922485,
+        "llm_model": "unknown",
+        "content_structure": [
+          "statement_info",
+          "line_items",
+          "period_totals"
+        ],
+        "quality_assessment_time": 5.283624887466431,
+        "overall_quality": 0.85,
+        "quality_issues": 0,
+        "quality_recommendations": 0,
+        "hallucination_detected": false
+      },
+      "has_hallucination": false,
+      "tries": 0,
+      "error_message": null,
+      "processing_time": 0.0,
+      "total_processing_time": 24.752535343170166,
+      "page_number": 5,
+      "image_path": "C:\\Users\\risha\\cursorprojects\\WeaveAssignment\\document-agent\\music_rights\\data\\converted_images\\2023 12 - Statement_33877_023_40469_566473_20231231\\page_005.jpg"
+    }
+  ],
+  "summary": {
+    "successful_pages": 3,
+    "failed_pages": 0,
+    "total_regions": 6
+  }
+}

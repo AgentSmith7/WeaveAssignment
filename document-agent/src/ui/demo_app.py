@@ -156,7 +156,7 @@ def main():
     
     # Header
     st.title("📄 Document Processing Agent Demo")
-    st.markdown("## Weave Instrumentation Demo")
+    #st.markdown("## Weave Instrumentation Demo")
     
     # Sidebar
     with st.sidebar:

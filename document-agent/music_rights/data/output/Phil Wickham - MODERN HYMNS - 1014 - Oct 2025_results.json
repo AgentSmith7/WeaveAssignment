@@ -1,0 +1,739 @@
+{
+  "pdf_name": "Phil Wickham - MODERN HYMNS - 1014 - Oct 2025",
+  "total_pages": 3,
+  "processed_at": "2026-02-27T01:25:43.401886",
+  "pages": [
+    {
+      "document_path": "C:\\Users\\risha\\cursorprojects\\WeaveAssignment\\document-agent\\music_rights\\data\\converted_images\\Phil Wickham - MODERN HYMNS - 1014 - Oct 2025\\page_001.jpg",
+      "document_type": "royalty_statement",
+      "document_images": [
+        "[[[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n ...\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]]"
+      ],
+      "detected_regions": [
+        {
+          "region_type": "table",
+          "bbox": [
+            113.0,
+            17.0,
+            2442.0,
+            3097.0
+          ],
+          "confidence": 0.6858355402946472,
+          "content": "Here is the table data extracted from the image in a structured format:\n\n```\n| Product        | Title                         | Sales Channel          | Qty | Sales  | Net Sales | Rate   | Royalty  |\n|----------------|-------------------------------|------------------------|-----|--------|-----------|--------|----------|\n| 30976-301-A    | Doxology/Amen                 | MU - Master Use Revenue | 120 | $2.47  | $2.47     | 50.00% | ($1.24)  |\n| 30976-301-A    | Doxology/Amen                 | MU - Master Use Revenue | 120 | $2.47  | $2.47     | 50.00% | ($1.24)  |\n| 30976-301-A    | Doxology/Amen                 | MU - Master Use Revenue | 369 | $10.14 | $10.14    | 40.00% | ($5.05)  |\n| 30976-301-A    | Doxology/Amen                 | MU - Master Use Revenue | 369 | $10.14 | $10.14    | 50.00% | ($5.07)  |\n| 30976-302-A    | Your Love Awakens Me          | MU - Master Use Revenue | 115 | $2.36  | $2.36     | 50.00% | ($1.18)  |\n| 30976-302-A    | Your Love Awakens Me          | MU - Master Use Revenue | 115 | $2.36  | $2.36     | 50.00% | ($1.18)  |\n| 30976-302-A    | Your Love Awakens Me          | MU - Master Use Revenue | 406 | $14.60 | $14.60    | 40.00% | ($5.84)  |\n| 30976-302-A    | Your Love Awakens Me          | MU - Master Use Revenue | 406 | $14.60 | $14.60    | 50.00% | ($7.30)  |\n| 30976-303-A    | My All In All                 | MU - Master Use Revenue | 2   | $0.04  | $0.04     | 50.00% | $0.00    |\n| 30976-303-A    | My All In All                 | MU - Master Use Revenue | 2   | $0.04  | $0.04     | 100.00%| $0.00    |\n| 30976-305-A    | The Secret Place              | MU - Master Use Revenue | 1   | $0.02  | $0.02     | 100.00%| $0.00    |\n| 30976-305-A    | The Secret Place              | MU - Master Use Revenue | 1   | $0.02  | $0.02     | 100.00%| $0.00    |\n| 30976-306-A    | Better Than Life              | MU - Master Use Revenue | 2   | $0.04  | $0.04     | 50.00% | $0.00    |\n| 30976-307-A    | Starmaker (Above The Earth)   | MU - Master Use Revenue | 3   | $0.06  | $0.06     | 40.00% | ($0.03)  |\n| 30976-311-A    | As It Is In Heaven           | MU - Master Use Revenue | 2   | $0.12  | $0.12     | 50.00% | ($0.06)  |\n| 30976-311-A    | As It Is In Heaven           | MU - Master Use Revenue | 2   | $0.12  | $0.12     | 50.00% | ($0.06)  |\n| 39032-1813-A   | Yours Alone                   | FL - Foreign Digital/Physical | 747 | $2.69  | $2.69     | 50.00% | ($1.35)  |\n| 39032-1813-A   | Yours Alone                   | FL - Foreign Digital/Physical | 1311| $2.60  | $2.60     | 40.00% | ($1.04)  |\n| ...            | ...                           | ...                    | ... | ...    | ...       | ...    | ...      |\n```\n\nNote: The above representation is truncated for brevity. Please let me know if you need additional rows",
+          "page_number": 0
+        }
+      ],
+      "extracted_text": "Here is the table data extracted from the image in a structured format:\n\n```\n| Product        | Title                         | Sales Channel          | Qty | Sales  | Net Sales | Rate   | Royalty  |\n|----------------|-------------------------------|------------------------|-----|--------|-----------|--------|----------|\n| 30976-301-A    | Doxology/Amen                 | MU - Master Use Revenue | 120 | $2.47  | $2.47     | 50.00% | ($1.24)  |\n| 30976-301-A    | Doxology/Amen                 | MU - Master Use Revenue | 120 | $2.47  | $2.47     | 50.00% | ($1.24)  |\n| 30976-301-A    | Doxology/Amen                 | MU - Master Use Revenue | 369 | $10.14 | $10.14    | 40.00% | ($5.05)  |\n| 30976-301-A    | Doxology/Amen                 | MU - Master Use Revenue | 369 | $10.14 | $10.14    | 50.00% | ($5.07)  |\n| 30976-302-A    | Your Love Awakens Me          | MU - Master Use Revenue | 115 | $2.36  | $2.36     | 50.00% | ($1.18)  |\n| 30976-302-A    | Your Love Awakens Me          | MU - Master Use Revenue | 115 | $2.36  | $2.36     | 50.00% | ($1.18)  |\n| 30976-302-A    | Your Love Awakens Me          | MU - Master Use Revenue | 406 | $14.60 | $14.60    | 40.00% | ($5.84)  |\n| 30976-302-A    | Your Love Awakens Me          | MU - Master Use Revenue | 406 | $14.60 | $14.60    | 50.00% | ($7.30)  |\n| 30976-303-A    | My All In All                 | MU - Master Use Revenue | 2   | $0.04  | $0.04     | 50.00% | $0.00    |\n| 30976-303-A    | My All In All                 | MU - Master Use Revenue | 2   | $0.04  | $0.04     | 100.00%| $0.00    |\n| 30976-305-A    | The Secret Place              | MU - Master Use Revenue | 1   | $0.02  | $0.02     | 100.00%| $0.00    |\n| 30976-305-A    | The Secret Place              | MU - Master Use Revenue | 1   | $0.02  | $0.02     | 100.00%| $0.00    |\n| 30976-306-A    | Better Than Life              | MU - Master Use Revenue | 2   | $0.04  | $0.04     | 50.00% | $0.00    |\n| 30976-307-A    | Starmaker (Above The Earth)   | MU - Master Use Revenue | 3   | $0.06  | $0.06     | 40.00% | ($0.03)  |\n| 30976-311-A    | As It Is In Heaven           | MU - Master Use Revenue | 2   | $0.12  | $0.12     | 50.00% | ($0.06)  |\n| 30976-311-A    | As It Is In Heaven           | MU - Master Use Revenue | 2   | $0.12  | $0.12     | 50.00% | ($0.06)  |\n| 39032-1813-A   | Yours Alone                   | FL - Foreign Digital/Physical | 747 | $2.69  | $2.69     | 50.00% | ($1.35)  |\n| 39032-1813-A   | Yours Alone                   | FL - Foreign Digital/Physical | 1311| $2.60  | $2.60     | 40.00% | ($1.04)  |\n| ...            | ...                           | ...                    | ... | ...    | ...       | ...    | ...      |\n```\n\nNote: The above representation is truncated for brevity. Please let me know if you need additional rows",
+      "structured_content": {
+        "statement_info": {
+          "vendor_name": "N/A",
+          "contract_name": "N/A",
+          "vendor_number": "N/A",
+          "contract_number": "N/A",
+          "period_start": "N/A",
+          "period_end": "N/A",
+          "page_info": "Page 1 of 3"
+        },
+        "summary_items": [],
+        "line_items": [
+          {
+            "item_name": "Doxology/Amen",
+            "item_code": "30976-301-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 120,
+            "unit_rate": 2.47,
+            "gross_amount": 2.47,
+            "royalty_rate": -0.5,
+            "royalty_amount": -1.24
+          },
+          {
+            "item_name": "Doxology/Amen",
+            "item_code": "30976-301-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 120,
+            "unit_rate": 2.47,
+            "gross_amount": 2.47,
+            "royalty_rate": -0.5,
+            "royalty_amount": -1.24
+          },
+          {
+            "item_name": "Doxology/Amen",
+            "item_code": "30976-301-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 369,
+            "unit_rate": 10.14,
+            "gross_amount": 10.14,
+            "royalty_rate": -0.4,
+            "royalty_amount": -5.05
+          },
+          {
+            "item_name": "Doxology/Amen",
+            "item_code": "30976-301-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 369,
+            "unit_rate": 10.14,
+            "gross_amount": 10.14,
+            "royalty_rate": -0.5,
+            "royalty_amount": -5.07
+          },
+          {
+            "item_name": "Your Love Awakens Me",
+            "item_code": "30976-302-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 115,
+            "unit_rate": 2.36,
+            "gross_amount": 2.36,
+            "royalty_rate": -0.5,
+            "royalty_amount": -1.18
+          },
+          {
+            "item_name": "Your Love Awakens Me",
+            "item_code": "30976-302-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 115,
+            "unit_rate": 2.36,
+            "gross_amount": 2.36,
+            "royalty_rate": -0.5,
+            "royalty_amount": -1.18
+          },
+          {
+            "item_name": "Your Love Awakens Me",
+            "item_code": "30976-302-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 406,
+            "unit_rate": 14.6,
+            "gross_amount": 14.6,
+            "royalty_rate": -0.4,
+            "royalty_amount": -5.84
+          },
+          {
+            "item_name": "Your Love Awakens Me",
+            "item_code": "30976-302-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 406,
+            "unit_rate": 14.6,
+            "gross_amount": 14.6,
+            "royalty_rate": -0.5,
+            "royalty_amount": -7.3
+          },
+          {
+            "item_name": "My All In All",
+            "item_code": "30976-303-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 2,
+            "unit_rate": 0.04,
+            "gross_amount": 0.04,
+            "royalty_rate": -0.5,
+            "royalty_amount": 0.0
+          },
+          {
+            "item_name": "My All In All",
+            "item_code": "30976-303-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 2,
+            "unit_rate": 0.04,
+            "gross_amount": 0.04,
+            "royalty_rate": -1.0,
+            "royalty_amount": 0.0
+          },
+          {
+            "item_name": "The Secret Place",
+            "item_code": "30976-305-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 1,
+            "unit_rate": 0.02,
+            "gross_amount": 0.02,
+            "royalty_rate": -1.0,
+            "royalty_amount": 0.0
+          },
+          {
+            "item_name": "The Secret Place",
+            "item_code": "30976-305-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 1,
+            "unit_rate": 0.02,
+            "gross_amount": 0.02,
+            "royalty_rate": -1.0,
+            "royalty_amount": 0.0
+          },
+          {
+            "item_name": "Better Than Life",
+            "item_code": "30976-306-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 2,
+            "unit_rate": 0.04,
+            "gross_amount": 0.04,
+            "royalty_rate": -0.5,
+            "royalty_amount": 0.0
+          },
+          {
+            "item_name": "Starmaker (Above The Earth)",
+            "item_code": "30976-307-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 3,
+            "unit_rate": 0.06,
+            "gross_amount": 0.06,
+            "royalty_rate": -0.4,
+            "royalty_amount": -0.03
+          },
+          {
+            "item_name": "As It Is In Heaven",
+            "item_code": "30976-311-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 2,
+            "unit_rate": 0.12,
+            "gross_amount": 0.12,
+            "royalty_rate": -0.5,
+            "royalty_amount": -0.06
+          },
+          {
+            "item_name": "As It Is In Heaven",
+            "item_code": "30976-311-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 2,
+            "unit_rate": 0.12,
+            "gross_amount": 0.12,
+            "royalty_rate": -0.5,
+            "royalty_amount": -0.06
+          },
+          {
+            "item_name": "Yours Alone",
+            "item_code": "39032-1813-A",
+            "channel": "FL - Foreign Digital/Physical",
+            "units": 747,
+            "unit_rate": 2.69,
+            "gross_amount": 2.69,
+            "royalty_rate": -0.5,
+            "royalty_amount": -1.35
+          },
+          {
+            "item_name": "Yours Alone",
+            "item_code": "39032-1813-A",
+            "channel": "FL - Foreign Digital/Physical",
+            "units": 1311,
+            "unit_rate": 2.6,
+            "gross_amount": 2.6,
+            "royalty_rate": -0.4,
+            "royalty_amount": -1.04
+          }
+        ]
+      },
+      "quality_assessment": {
+        "raw_assessment": "```json\n{\n    \"overall_quality\": 0.85,\n    \"clarity_score\": 0.90,\n    \"completeness_score\": 0.80,\n    \"table_extraction_quality\": 0.85,\n    \"issues\": [\n        \"Vendor and contract details are marked as 'N/A', leading to a lack of specific reference for the statement.\",\n        \"Some royalty rates are negative, which may indicate a calculation or data entry error as royalties typically should not be negative.\",\n        \"The same item appears multiple times with slightly differing values, which could indicate duplication or errors in data processing.\"\n    ],\n    \"recommendations\": [\n        \"Include actual vendor and contract details in the statement to enhance traceability and accountability.\",\n        \"Review and correct the royalty rates to ensure they are accurate and do not result in negative amounts, unless intended for a specific reason.\",\n        \"Implement a deduplication process to ensure that each item is reported only once to eliminate redundancy and improve clarity.\"\n    ]\n}\n```",
+        "overall_quality": 0.85
+      },
+      "processing_metadata": {
+        "layout_detection_time": 2.4395883083343506,
+        "num_regions_detected": 1,
+        "num_pages": 1,
+        "regions_per_page": 1.0,
+        "ocr_processing_time": 20.57079815864563,
+        "total_text_length": 2796,
+        "successful_extractions": 1,
+        "extraction_success_rate": 1.0,
+        "avg_text_per_region": 2796.0,
+        "content_analysis_time": 29.41372013092041,
+        "llm_model": "unknown",
+        "content_structure": [
+          "statement_info",
+          "summary_items",
+          "line_items"
+        ],
+        "quality_assessment_time": 3.1085801124572754,
+        "overall_quality": 0.85,
+        "quality_issues": 0,
+        "quality_recommendations": 0,
+        "hallucination_detected": false
+      },
+      "has_hallucination": false,
+      "tries": 0,
+      "error_message": null,
+      "processing_time": 0.0,
+      "total_processing_time": 55.77925491333008,
+      "page_number": 1,
+      "image_path": "C:\\Users\\risha\\cursorprojects\\WeaveAssignment\\document-agent\\music_rights\\data\\converted_images\\Phil Wickham - MODERN HYMNS - 1014 - Oct 2025\\page_001.jpg"
+    },
+    {
+      "document_path": "C:\\Users\\risha\\cursorprojects\\WeaveAssignment\\document-agent\\music_rights\\data\\converted_images\\Phil Wickham - MODERN HYMNS - 1014 - Oct 2025\\page_002.jpg",
+      "document_type": "royalty_statement",
+      "document_images": [
+        "[[[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n ...\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]]"
+      ],
+      "detected_regions": [
+        {
+          "region_type": "table",
+          "bbox": [
+            114.0,
+            150.0,
+            2442.0,
+            3095.0
+          ],
+          "confidence": 0.7620648741722107,
+          "content": "Here\u2019s the extracted table data in a structured format:\n\n```\nProduct | Title                           | Sales Channel           | Qty | Sales | Net Sales | Rate   | Royalty\n40476-710-A | Here With Me (Acoustic)    | MU - Master Use Revenue  | 1   | $0.02 | $0.02    | 50.00% | $0.01\n40476-710-A | Here With Me (Acoustic)    | MU - Master Use Revenue  | 1   | $0.02 | $0.02    | 100.00%| $0.02\n40476-711-A | Children of God (Acoustic)  | MU - Master Use Revenue  | 1   | $0.02 | $0.02    | 40.00% | $0.01\n40476-711-A | Children of God (Acoustic)  | MU - Master Use Revenue  | 2   | $0.04 | $0.04    | 40.00% | $0.02\n40476-711-A | Children of God (Acoustic)  | MU - Master Use Revenue  | 2   | $0.04 | $0.04    | 100.00%| $0.04\n40476-712-A | Doxology/Amen (Acoustic)    | MU - Master Use Revenue  | 31  | $0.84 | $0.84    | 40.00% | $0.34\n40476-712-A | Doxology/Amen (Acoustic)    | MU - Master Use Revenue  | 1   | $0.06 | $0.06    | 40.00% | $0.02\n40476-712-A | Doxology/Amen (Acoustic)    | MU - Master Use Revenue  | 1   | $0.06 | $0.06    | 100.00%| $0.06\n40476-715-A | Stand In Awe (Acoustic)     | MU - Master Use Revenue  | 1   | $0.02 | $0.02    | 40.00% | $0.01\n40476-715-A | Stand In Awe (Acoustic)     | MU - Master Use Revenue  | 1   | $0.02 | $0.02    | 100.00%| $0.02\n40476-715-A | Stand In Awe (Acoustic)     | MU - Master Use Revenue  | 1   | $0.02 | $0.02    | 100.00%| $0.02\n42552      | Cannons                       | CT - CBA Trade          | 1   | $1.85 | $1.85    | 10.00% | $0.19\n42552      | Cannons                       | CT - CBA Trade          | 1   | $1.85 | $1.85    | 45.00% | $0.83\n42552      | Cannons                       | CT - CBA Trade          | 1   | $1.85 | $1.85    | 100.00%| $1.85\n42552-12980-A | A Must I Wait              | MU - Master Use Revenue  | 1   | $0.02 | $0.02    | 50.00% | $0.01\n42552-12980-A | A Must I Wait              | MU - Master Use Revenue  | 2   | $0.02 | $0.02    | 10.00% | $0.002\n42552-12983-A | Cannons                    | MU - Master Use Revenue  | 92  | $2.79 | $2.79    | 40.00% | $1.14\n42552-12983-A | Cannons                    | MU - Master Use Revenue  | 92  | $2.79 | $2.79    | 50.00% | $1.40\n42552-12983-A | Cannons                    | MU - Master Use Revenue  | 92  | $2.79 | $2.79    | 40.00% | $1.12\n42552-12986-A | Shining                    | MU - Master Use Revenue  | 92  | $2.79 | $2.79    | 50.00% | $1.40\n42552-12986-A | Shining                    | MU - Master Use Revenue  | 92  | $2.79 | $2.79    | 50.00% | $",
+          "page_number": 0
+        }
+      ],
+      "extracted_text": "Here\u2019s the extracted table data in a structured format:\n\n```\nProduct | Title                           | Sales Channel           | Qty | Sales | Net Sales | Rate   | Royalty\n40476-710-A | Here With Me (Acoustic)    | MU - Master Use Revenue  | 1   | $0.02 | $0.02    | 50.00% | $0.01\n40476-710-A | Here With Me (Acoustic)    | MU - Master Use Revenue  | 1   | $0.02 | $0.02    | 100.00%| $0.02\n40476-711-A | Children of God (Acoustic)  | MU - Master Use Revenue  | 1   | $0.02 | $0.02    | 40.00% | $0.01\n40476-711-A | Children of God (Acoustic)  | MU - Master Use Revenue  | 2   | $0.04 | $0.04    | 40.00% | $0.02\n40476-711-A | Children of God (Acoustic)  | MU - Master Use Revenue  | 2   | $0.04 | $0.04    | 100.00%| $0.04\n40476-712-A | Doxology/Amen (Acoustic)    | MU - Master Use Revenue  | 31  | $0.84 | $0.84    | 40.00% | $0.34\n40476-712-A | Doxology/Amen (Acoustic)    | MU - Master Use Revenue  | 1   | $0.06 | $0.06    | 40.00% | $0.02\n40476-712-A | Doxology/Amen (Acoustic)    | MU - Master Use Revenue  | 1   | $0.06 | $0.06    | 100.00%| $0.06\n40476-715-A | Stand In Awe (Acoustic)     | MU - Master Use Revenue  | 1   | $0.02 | $0.02    | 40.00% | $0.01\n40476-715-A | Stand In Awe (Acoustic)     | MU - Master Use Revenue  | 1   | $0.02 | $0.02    | 100.00%| $0.02\n40476-715-A | Stand In Awe (Acoustic)     | MU - Master Use Revenue  | 1   | $0.02 | $0.02    | 100.00%| $0.02\n42552      | Cannons                       | CT - CBA Trade          | 1   | $1.85 | $1.85    | 10.00% | $0.19\n42552      | Cannons                       | CT - CBA Trade          | 1   | $1.85 | $1.85    | 45.00% | $0.83\n42552      | Cannons                       | CT - CBA Trade          | 1   | $1.85 | $1.85    | 100.00%| $1.85\n42552-12980-A | A Must I Wait              | MU - Master Use Revenue  | 1   | $0.02 | $0.02    | 50.00% | $0.01\n42552-12980-A | A Must I Wait              | MU - Master Use Revenue  | 2   | $0.02 | $0.02    | 10.00% | $0.002\n42552-12983-A | Cannons                    | MU - Master Use Revenue  | 92  | $2.79 | $2.79    | 40.00% | $1.14\n42552-12983-A | Cannons                    | MU - Master Use Revenue  | 92  | $2.79 | $2.79    | 50.00% | $1.40\n42552-12983-A | Cannons                    | MU - Master Use Revenue  | 92  | $2.79 | $2.79    | 40.00% | $1.12\n42552-12986-A | Shining                    | MU - Master Use Revenue  | 92  | $2.79 | $2.79    | 50.00% | $1.40\n42552-12986-A | Shining                    | MU - Master Use Revenue  | 92  | $2.79 | $2.79    | 50.00% | $",
+      "structured_content": {
+        "statement_info": {
+          "vendor_name": "N/A",
+          "contract_name": "N/A",
+          "vendor_number": "N/A",
+          "contract_number": "N/A",
+          "period_start": "N/A",
+          "period_end": "N/A",
+          "page_info": "Page 1 of 3"
+        },
+        "summary_items": [],
+        "line_items": [
+          {
+            "item_name": "Here With Me (Acoustic)",
+            "item_code": "40476-710-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 1,
+            "unit_rate": 0.02,
+            "gross_amount": 0.02,
+            "royalty_rate": 0.5,
+            "royalty_amount": 0.01
+          },
+          {
+            "item_name": "Here With Me (Acoustic)",
+            "item_code": "40476-710-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 1,
+            "unit_rate": 0.02,
+            "gross_amount": 0.02,
+            "royalty_rate": 1.0,
+            "royalty_amount": 0.02
+          },
+          {
+            "item_name": "Children of God (Acoustic)",
+            "item_code": "40476-711-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 1,
+            "unit_rate": 0.02,
+            "gross_amount": 0.02,
+            "royalty_rate": 0.4,
+            "royalty_amount": 0.01
+          },
+          {
+            "item_name": "Children of God (Acoustic)",
+            "item_code": "40476-711-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 2,
+            "unit_rate": 0.04,
+            "gross_amount": 0.04,
+            "royalty_rate": 0.4,
+            "royalty_amount": 0.02
+          },
+          {
+            "item_name": "Children of God (Acoustic)",
+            "item_code": "40476-711-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 2,
+            "unit_rate": 0.04,
+            "gross_amount": 0.04,
+            "royalty_rate": 1.0,
+            "royalty_amount": 0.04
+          },
+          {
+            "item_name": "Doxology/Amen (Acoustic)",
+            "item_code": "40476-712-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 31,
+            "unit_rate": 0.84,
+            "gross_amount": 0.84,
+            "royalty_rate": 0.4,
+            "royalty_amount": 0.34
+          },
+          {
+            "item_name": "Doxology/Amen (Acoustic)",
+            "item_code": "40476-712-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 1,
+            "unit_rate": 0.06,
+            "gross_amount": 0.06,
+            "royalty_rate": 0.4,
+            "royalty_amount": 0.02
+          },
+          {
+            "item_name": "Doxology/Amen (Acoustic)",
+            "item_code": "40476-712-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 1,
+            "unit_rate": 0.06,
+            "gross_amount": 0.06,
+            "royalty_rate": 1.0,
+            "royalty_amount": 0.06
+          },
+          {
+            "item_name": "Stand In Awe (Acoustic)",
+            "item_code": "40476-715-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 1,
+            "unit_rate": 0.02,
+            "gross_amount": 0.02,
+            "royalty_rate": 0.4,
+            "royalty_amount": 0.01
+          },
+          {
+            "item_name": "Stand In Awe (Acoustic)",
+            "item_code": "40476-715-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 1,
+            "unit_rate": 0.02,
+            "gross_amount": 0.02,
+            "royalty_rate": 1.0,
+            "royalty_amount": 0.02
+          },
+          {
+            "item_name": "Stand In Awe (Acoustic)",
+            "item_code": "40476-715-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 1,
+            "unit_rate": 0.02,
+            "gross_amount": 0.02,
+            "royalty_rate": 1.0,
+            "royalty_amount": 0.02
+          },
+          {
+            "item_name": "Cannons",
+            "item_code": "42552",
+            "channel": "CT - CBA Trade",
+            "units": 1,
+            "unit_rate": 1.85,
+            "gross_amount": 1.85,
+            "royalty_rate": 0.1,
+            "royalty_amount": 0.19
+          },
+          {
+            "item_name": "Cannons",
+            "item_code": "42552",
+            "channel": "CT - CBA Trade",
+            "units": 1,
+            "unit_rate": 1.85,
+            "gross_amount": 1.85,
+            "royalty_rate": 0.45,
+            "royalty_amount": 0.83
+          },
+          {
+            "item_name": "Cannons",
+            "item_code": "42552",
+            "channel": "CT - CBA Trade",
+            "units": 1,
+            "unit_rate": 1.85,
+            "gross_amount": 1.85,
+            "royalty_rate": 1.0,
+            "royalty_amount": 1.85
+          },
+          {
+            "item_name": "A Must I Wait",
+            "item_code": "42552-12980-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 1,
+            "unit_rate": 0.02,
+            "gross_amount": 0.02,
+            "royalty_rate": 0.5,
+            "royalty_amount": 0.01
+          },
+          {
+            "item_name": "A Must I Wait",
+            "item_code": "42552-12980-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 2,
+            "unit_rate": 0.02,
+            "gross_amount": 0.02,
+            "royalty_rate": 0.1,
+            "royalty_amount": 0.002
+          },
+          {
+            "item_name": "Cannons",
+            "item_code": "42552-12983-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 92,
+            "unit_rate": 2.79,
+            "gross_amount": 2.79,
+            "royalty_rate": 0.4,
+            "royalty_amount": 1.14
+          },
+          {
+            "item_name": "Cannons",
+            "item_code": "42552-12983-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 92,
+            "unit_rate": 2.79,
+            "gross_amount": 2.79,
+            "royalty_rate": 0.5,
+            "royalty_amount": 1.4
+          },
+          {
+            "item_name": "Cannons",
+            "item_code": "42552-12983-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 92,
+            "unit_rate": 2.79,
+            "gross_amount": 2.79,
+            "royalty_rate": 0.4,
+            "royalty_amount": 1.12
+          },
+          {
+            "item_name": "Shining",
+            "item_code": "42552-12986-A",
+            "channel": "MU - Master Use Revenue",
+            "units": 92,
+            "unit_rate": 2.79,
+            "gross_amount": 2.79,
+            "royalty_rate": 0.5,
+            "royalty_amount": 1.4
+          }
+        ]
+      },
+      "quality_assessment": {
+        "raw_assessment": "```json\n{\n    \"overall_quality\": 0.85,\n    \"clarity_score\": 0.90,\n    \"completeness_score\": 0.80,\n    \"table_extraction_quality\": 0.85,\n    \"issues\": [\n        \"Lack of vendor and contract information, making it hard to identify the source of the royalties.\",\n        \"Some royalty calculations may have inconsistencies, such as differences in royalty amounts for the same item in the line items (e.g., 'Children of God').\",\n        \"The gross amounts and royalty amounts are not consistently matched with their corresponding calculations.\",\n        \"The total number of pages is noted, but content only provided for one page.\"\n    ],\n    \"recommendations\": [\n        \"Provide complete vendor and contract information to better contextualize the statement.\",\n        \"Standardize the process for calculating and displaying royalty amounts to ensure consistency.\",\n        \"Include a total summary section at the end that summarizes all royalties and gross amounts per item.\",\n        \"Ensure that each page is fully documented and includes relevant details to avoid missing information.\",\n        \"Verify and correct the line item calculations to ensure accuracy across all items.\"\n    ]\n}\n```",
+        "overall_quality": 0.85
+      },
+      "processing_metadata": {
+        "layout_detection_time": 1.60676908493042,
+        "num_regions_detected": 1,
+        "num_pages": 1,
+        "regions_per_page": 1.0,
+        "ocr_processing_time": 23.535056829452515,
+        "total_text_length": 2506,
+        "successful_extractions": 1,
+        "extraction_success_rate": 1.0,
+        "avg_text_per_region": 2506.0,
+        "content_analysis_time": 35.38975143432617,
+        "llm_model": "unknown",
+        "content_structure": [
+          "statement_info",
+          "summary_items",
+          "line_items"
+        ],
+        "quality_assessment_time": 4.6588664054870605,
+        "overall_quality": 0.85,
+        "quality_issues": 0,
+        "quality_recommendations": 0,
+        "hallucination_detected": false
+      },
+      "has_hallucination": false,
+      "tries": 0,
+      "error_message": null,
+      "processing_time": 0.0,
+      "total_processing_time": 65.333993434906,
+      "page_number": 2,
+      "image_path": "C:\\Users\\risha\\cursorprojects\\WeaveAssignment\\document-agent\\music_rights\\data\\converted_images\\Phil Wickham - MODERN HYMNS - 1014 - Oct 2025\\page_002.jpg"
+    },
+    {
+      "document_path": "C:\\Users\\risha\\cursorprojects\\WeaveAssignment\\document-agent\\music_rights\\data\\converted_images\\Phil Wickham - MODERN HYMNS - 1014 - Oct 2025\\page_003.jpg",
+      "document_type": "royalty_statement",
+      "document_images": [
+        "[[[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n ...\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]\n\n [[255 255 255]\n  [255 255 255]\n  [255 255 255]\n  ...\n  [255 255 255]\n  [255 255 255]\n  [255 255 255]]]"
+      ],
+      "detected_regions": [
+        {
+          "region_type": "figure",
+          "bbox": [
+            59.0,
+            9.0,
+            2453.0,
+            1685.0
+          ],
+          "confidence": 0.6046841740608215,
+          "content": "Here is the extracted text content from the figure/image:\n\n---\n\n**Product**  \nUSM2C1606188  \n**Title**  \nChildren of God  \n**Sales Channel**  \nMU - Master Use Revenue  \n**Qty**  \n3  \n**Sales**  \n$0.06  \n**Net Sales**  \n$0.06  \n**Rate**  \n-50.00%  \n**Royalty**  \n($0.03)  \n**Sales**  \n$0.06  \n**Net Sales**  \n$0.06  \n**Rate**  \n100.00%  \n**Royalty**  \n$0.06  \n\n**Royalty for Period:** $117.18  \n**Reserves Released:** $0.00  \n**Total Royalty for Period:** $117.18  \n\n**Expense/Credit Detail**  \n**Date**  \n10/15/2025  \n**Amount**  \n($15.00)  \n**Note**  \nPayment for Sept. 2025 Royalties  \n\n**Royalty Account Summary (All Periods) for Phil Wickham - MODERN HYMNS - 1014**  \n\n**Ending Balance**  \n$117.19  \n\n---",
+          "page_number": 0
+        },
+        {
+          "region_type": "title",
+          "bbox": [
+            122.0,
+            3039.0,
+            1516.0,
+            3096.0
+          ],
+          "confidence": 0.5926503539085388,
+          "content": "Royalty Detail for Phil Wickham - MODERN HYMNS - 1014",
+          "page_number": 0
+        },
+        {
+          "region_type": "title",
+          "bbox": [
+            122.0,
+            1000.0,
+            1887.0,
+            1081.0
+          ],
+          "confidence": 0.5353948473930359,
+          "content": "Royalty Account Summary (All Periods) for Phil Wickham - MODERN HYMNS - 1014",
+          "page_number": 0
+        },
+        {
+          "region_type": "title",
+          "bbox": [
+            122.0,
+            1001.0,
+            1883.0,
+            1056.0
+          ],
+          "confidence": 0.47253766655921936,
+          "content": "Royalty Account Summary (All Periods) for Phil Wickham - MODERN HYMNS - 1014",
+          "page_number": 0
+        },
+        {
+          "region_type": "table",
+          "bbox": [
+            100.0,
+            6.0,
+            2438.0,
+            2063.0
+          ],
+          "confidence": 0.465972900390625,
+          "content": "Here is the table content extracted in a structured format:\n\n```\n| Product        | Title          | Sales Channel           | Qty | Sales   | Net Sales | Rate      | Royalty    |\n|----------------|----------------|-------------------------|-----|---------|-----------|-----------|------------|\n| USM2C1606188   | Children of God | MU - Master Use Revenue  | 3   | $0.06   | $0.06     | -50.00%   | ($0.03)    |\n| USM2C1606188   | Children of God | MU - Master Use Revenue  | 3   | $0.06   | $0.06     | 100.00%   | $0.06      |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n| Date           | Amount         | Note                    |\n|----------------|----------------|-------------------------|\n| 10/15/2025     | ($15.00)      | Payment for Sept. 2025 Royalties |\n|                |                |                         |\n|                |                |                         |\n|                |                |                         |\n\n\n|                    |           |\n|--------------------|-----------|\n| Royalty for Period  | $117.18   |\n| Reserves Released    | $0.00     |\n| Total Royalty for Period | $117.18   |\n\n| Ending Balance       | $117.19   |\n```",
+          "page_number": 0
+        },
+        {
+          "region_type": "title",
+          "bbox": [
+            2123.0,
+            3041.0,
+            2454.0,
+            3086.0
+          ],
+          "confidence": 0.4405152201652527,
+          "content": "12/17/2025 12:07 AM",
+          "page_number": 0
+        },
+        {
+          "region_type": "title",
+          "bbox": [
+            122.0,
+            1001.0,
+            1884.0,
+            1056.0
+          ],
+          "confidence": 0.3808523118495941,
+          "content": "Royalty Account Summary (All Periods) for Phil Wickham - MODERN HYMNS - 1014",
+          "page_number": 0
+        },
+        {
+          "region_type": "figure",
+          "bbox": [
+            72.0,
+            14.0,
+            2449.0,
+            1703.0
+          ],
+          "confidence": 0.3386935889720917,
+          "content": "Here's the extracted text from the provided image:\n\n---\n\nProduct    Title  \nUSM2C1606188  Children of God  \nUSM2C1606188  Children of God  \n\nSales Channel       Qty    Sales  \nMU - Master Use Revenue   3   $0.06  \nMU - Master Use Revenue   3   $0.06  \n\nNet Sales  Rate    Royalty  \n$0.06  -50.00%  ($0.03)  \n$0.06  100.00%   $0.06  \n\nRoyalty for Period:   $117.18  \nReserves Released:     $0.00  \nTotal Royalty for Period:  $117.18  \n\nExpense/Credit Detail  \n\nDate          Amount      Note  \n10/15/2025  ($15.00)   Payment for Sept. 2025 Royalties  \n\nRoyalty Account Summary (All Periods) for Phil Wickham - MODERN HYMNS - 1014  \n\nEnding Balance  \n$117.19  \n\n--- \n\nLet me know if you need anything else!",
+          "page_number": 0
+        },
+        {
+          "region_type": "figure",
+          "bbox": [
+            116.0,
+            3021.0,
+            2466.0,
+            3291.0
+          ],
+          "confidence": 0.25886163115501404,
+          "content": "Here is the extracted text content from the image:\n\n- Royalty Detail for Phil Wickham - MODERN HYMNS - 1014\n- Page 3 of 3\n- DashBook Royalty Software v7.3\n- 12/17/2025 12:07 AM",
+          "page_number": 0
+        }
+      ],
+      "extracted_text": "Here is the extracted text content from the figure/image:\n\n---\n\n**Product**  \nUSM2C1606188  \n**Title**  \nChildren of God  \n**Sales Channel**  \nMU - Master Use Revenue  \n**Qty**  \n3  \n**Sales**  \n$0.06  \n**Net Sales**  \n$0.06  \n**Rate**  \n-50.00%  \n**Royalty**  \n($0.03)  \n**Sales**  \n$0.06  \n**Net Sales**  \n$0.06  \n**Rate**  \n100.00%  \n**Royalty**  \n$0.06  \n\n**Royalty for Period:** $117.18  \n**Reserves Released:** $0.00  \n**Total Royalty for Period:** $117.18  \n\n**Expense/Credit Detail**  \n**Date**  \n10/15/2025  \n**Amount**  \n($15.00)  \n**Note**  \nPayment for Sept. 2025 Royalties  \n\n**Royalty Account Summary (All Periods) for Phil Wickham - MODERN HYMNS - 1014**  \n\n**Ending Balance**  \n$117.19  \n\n--- Royalty Detail for Phil Wickham - MODERN HYMNS - 1014 Royalty Account Summary (All Periods) for Phil Wickham - MODERN HYMNS - 1014 Royalty Account Summary (All Periods) for Phil Wickham - MODERN HYMNS - 1014 Here is the table content extracted in a structured format:\n\n```\n| Product        | Title          | Sales Channel           | Qty | Sales   | Net Sales | Rate      | Royalty    |\n|----------------|----------------|-------------------------|-----|---------|-----------|-----------|------------|\n| USM2C1606188   | Children of God | MU - Master Use Revenue  | 3   | $0.06   | $0.06     | -50.00%   | ($0.03)    |\n| USM2C1606188   | Children of God | MU - Master Use Revenue  | 3   | $0.06   | $0.06     | 100.00%   | $0.06      |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n|                |                |                         |     |         |           |           |            |\n| Date           | Amount         | Note                    |\n|----------------|----------------|-------------------------|\n| 10/15/2025     | ($15.00)      | Payment for Sept. 2025 Royalties |\n|                |                |                         |\n|                |                |                         |\n|                |                |                         |\n\n\n|                    |           |\n|--------------------|-----------|\n| Royalty for Period  | $117.18   |\n| Reserves Released    | $0.00     |\n| Total Royalty for Period | $117.18   |\n\n| Ending Balance       | $117.19   |\n``` 12/17/2025 12:07 AM Royalty Account Summary (All Periods) for Phil Wickham - MODERN HYMNS - 1014 Here's the extracted text from the provided image:\n\n---\n\nProduct    Title  \nUSM2C1606188  Children of God  \nUSM2C1606188  Children of God  \n\nSales Channel       Qty    Sales  \nMU - Master Use Revenue   3   $0.06  \nMU - Master Use Revenue   3   $0.06  \n\nNet Sales  Rate    Royalty  \n$0.06  -50.00%  ($0.03)  \n$0.06  100.00%   $0.06  \n\nRoyalty for Period:   $117.18  \nReserves Released:     $0.00  \nTotal Royalty for Period:  $117.18  \n\nExpense/Credit Detail  \n\nDate          Amount      Note  \n10/15/2025  ($15.00)   Payment for Sept. 2025 Royalties  \n\nRoyalty Account Summary (All Periods) for Phil Wickham - MODERN HYMNS - 1014  \n\nEnding Balance  \n$117.19  \n\n--- \n\nLet me know if you need anything else! Here is the extracted text content from the image:\n\n- Royalty Detail for Phil Wickham - MODERN HYMNS - 1014\n- Page 3 of 3\n- DashBook Royalty Software v7.3\n- 12/17/2025 12:07 AM",
+      "structured_content": {
+        "statement_info": {
+          "vendor_name": "N/A",
+          "contract_name": "MODERN HYMNS",
+          "vendor_number": "N/A",
+          "contract_number": "1014",
+          "period_start": "N/A",
+          "period_end": "N/A",
+          "page_info": "Page 1 of 3"
+        },
+        "summary_items": [
+          {
+            "category": "Royalty for Period",
+            "subcategory": "N/A",
+            "amount": 117.18
+          },
+          {
+            "category": "Total Royalty for Period",
+            "subcategory": "N/A",
+            "amount": 117.18
+          },
+          {
+            "category": "Reserves Released",
+            "subcategory": "N/A",
+            "amount": 0
+          },
+          {
+            "category": "Ending Balance",
+            "subcategory": "N/A",
+            "amount": 117.19
+          }
+        ],
+        "line_items": [
+          {
+            "item_name": "Children of God",
+            "item_code": "USM2C1606188",
+            "channel": "MU - Master Use Revenue",
+            "units": 3,
+            "unit_rate": 0.06,
+            "gross_amount": 0.06,
+            "royalty_rate": -0.5,
+            "royalty_amount": -0.03
+          },
+          {
+            "item_name": "Children of God",
+            "item_code": "USM2C1606188",
+            "channel": "MU - Master Use Revenue",
+            "units": 3,
+            "unit_rate": 0.06,
+            "gross_amount": 0.06,
+            "royalty_rate": 1.0,
+            "royalty_amount": 0.06
+          }
+        ]
+      },
+      "quality_assessment": {
+        "raw_assessment": "```json\n{\n    \"overall_quality\": 0.85,\n    \"clarity_score\": 0.90,\n    \"completeness_score\": 0.80,\n    \"table_extraction_quality\": 0.85,\n    \"issues\": [\n        \"Multiple confidence values are low for some extracted text fields, indicating potential inaccuracies.\",\n        \"The contract and period information are marked as 'N/A', which suggests incomplete data.\",\n        \"Inconsistencies in royalty amounts across line items due to differing royalty rates could create confusion.\"\n    ],\n    \"recommendations\": [\n        \"Improve OCR accuracy to enhance confidence levels in extracted data.\",\n        \"Ensure that all relevant contract and period details are included to provide a complete statement.\",\n        \"Clarify how reserves and royalty calculations are derived, especially in cases of negative royalties and adjustments.\"\n    ]\n}\n```",
+        "overall_quality": 0.85
+      },
+      "processing_metadata": {
+        "layout_detection_time": 1.532071828842163,
+        "num_regions_detected": 9,
+        "num_pages": 1,
+        "regions_per_page": 9.0,
+        "ocr_processing_time": 28.391417503356934,
+        "total_text_length": 4174,
+        "successful_extractions": 9,
+        "extraction_success_rate": 1.0,
+        "avg_text_per_region": 463.77777777777777,
+        "content_analysis_time": 6.40797758102417,
+        "llm_model": "unknown",
+        "content_structure": [
+          "statement_info",
+          "summary_items",
+          "line_items"
+        ],
+        "quality_assessment_time": 3.121853828430176,
+        "overall_quality": 0.85,
+        "quality_issues": 0,
+        "quality_recommendations": 0,
+        "hallucination_detected": false
+      },
+      "has_hallucination": false,
+      "tries": 0,
+      "error_message": null,
+      "processing_time": 0.0,
+      "total_processing_time": 39.60815954208374,
+      "page_number": 3,
+      "image_path": "C:\\Users\\risha\\cursorprojects\\WeaveAssignment\\document-agent\\music_rights\\data\\converted_images\\Phil Wickham - MODERN HYMNS - 1014 - Oct 2025\\page_003.jpg"
+    }
+  ],
+  "summary": {
+    "successful_pages": 3,
+    "failed_pages": 0,
+    "total_regions": 11
+  }
+}
